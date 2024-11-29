@@ -1,0 +1,5 @@
+name: discord_notify
+version: '1.0'
+main: net.nisylvania.discord_notify.DiscordNotify
+api-version: '1.21'
+authors: [ nisylvania ]
